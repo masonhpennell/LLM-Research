@@ -4,13 +4,13 @@
 
 ## References
 
-- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). [Introduction to Algorithms](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf). MIT Press.
-- Bellman, R. (1957). [Dynamic Programming](https://gwern.net/doc/statistics/decision/1957-bellman-dynamicprogramming.pdf). Princeton University Press.
-- Dreyfus, S. E., & Law, A. M. (1977). [The Art and Theory of Dynamic Programming](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming). Academic Press.
-- Harel, D. (2012). [Algorithmics: The Spirit of Computing](https://link.springer.com/book/9783642272653). Addison-Wesley.
-- Kellerer, H., Pferschy, U., & Pisinger, D. (2004). [Knapsack Problems](https://www.researchgate.net/publication/220694474_Knapsack_Problems). Springer.
-- Oded Goldreich (2004). [Foundations of Cryptography: Basic Applications](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Oded-Goldreich/publication/239066122_Foundations_of_cryptography_II_Basic_applications/links/0deec52e2614fe1409000000/Foundations-of-cryptography-II-Basic-applications.pdf). Cambridge University Press.
-- [Weak Dynamic Programming for Generalized State Constraints](https://arxiv.org/abs/1105.0745)
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). [_Introduction to Algorithms_](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf). MIT Press.
+- Bellman, R. (1957). [_Dynamic Programming_](https://gwern.net/doc/statistics/decision/1957-bellman-dynamicprogramming.pdf). Princeton University Press.
+- Dreyfus, S. E., & Law, A. M. (1977). [_The Art and Theory of Dynamic Programming_](https://www.academia.edu/8817530/The_Art_and_Theory_of_Dynamic_Programming). Academic Press.
+- Harel, D. (2012). [_Algorithmics: The Spirit of Computing_](https://link.springer.com/book/9783642272653). Addison-Wesley.
+- Kellerer, H., Pferschy, U., & Pisinger, D. (2004). [_Knapsack Problems_](https://www.researchgate.net/publication/220694474_Knapsack_Problems). Springer.
+- Goldreich, O. (2004). [_Foundations of Cryptography: Basic Applications_](https://www.wisdom.weizmann.ac.il/~oded/foc.html). Cambridge University Press.
+- Bouchard, B., Nutz, M. (2018). [_Weak Dynamic Programming for Generalized State Constraints_](https://arxiv.org/abs/1105.0745)
 
 ## A Conversation with GPT-4o
 
