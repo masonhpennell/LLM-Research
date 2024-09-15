@@ -8,6 +8,25 @@
 
 ## A Conversation with GPT-4o
 
+### DP on Weak Machines
+
+### Cryptogragphy
+
+### Knapsack Problem
+The knapsack problem is a classic optimization problem in combinatorial optimization and computer science. It involves selecting a subset of items to maximize a certain value, subject to a weight or capacity constraint.
+You are given a set of items, each with a specific weight and value, and a knapsack (bag) that can hold up to a certain total capacity or weight. The goal is to select a subset of these items to put into the knapsack so that the total value of the selected items is maximized and the total weight of the selected items does not exceed the knapsack's capacity.
+
+#### Common Knapsack Examples
+**0/1 Knapsack Problem:** Each item can either be taken or left behind; you cannot take fractions of items. Using DP, we can build a DP table where each cell represents the maximum value that can be achieved with a given number of items and a given capacity.
+
+- Step 1: Let dp[i][w] be the maximum value that can be achieved with the first i items and a knapsack capacity w.
+- Step 2: For each item i
+  - If you don’t take the item, then dp[i][w] = dp[i-1][w] (the value remains the same as without this item).
+  - If you take the item, then dp[i][w] = max(dp[i-1][w], dp[i-1][w-w_i] + v_i) (i.e., either take the item or not, and maximize the value).
+- Step 3: If no items are chosen (i = 0) or the knapsack capacity is zero (w = 0), the value is 0, so dp[0][w] = 0 for all w.
+
+The knapsack problem and its variants are widely used in fields like resource allocation, finance, logistics, and cryptography.
+
 ### Influential Figures
 1. Richard Bellman
 
