@@ -1,7 +1,6 @@
-# LLM-Research
+# Dynamic Programming with ChatGPT
 
-**Questions:** If dynamic programming is meant for powerful machines, can it still be used on weak machines? How is Dynamic Programming used in cryptography and finance? Who founded and expanded the field of dynamic programming?
-
+**Questions:** If dynamic programming is meant for powerful machines, can it still be used on weak machines? How is Dynamic Programming used in cryptography and finance? What is the knapsack problem? Who are some of the influential researchers who left their mark on DP? (dynamic programming) How would a professor go about teaching dynamic programming to someone who's never done it before?
 ## References
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). [_Introduction to Algorithms_](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf). MIT Press.
@@ -80,3 +79,11 @@ While von Neumann is better known for his contributions to game theory, computer
 6. Eugene Lawler
 
 Lawler made important contributions to the application of dynamic programming in combinatorial optimization problems, particularly in tasks such as scheduling and sequencing. His work on the traveling salesman problem (TSP) and job-shop scheduling brought DP techniques to a broader audience in operations research and computer science.
+
+### Teaching Dynamic Programming
+
+To teach dynamic programming (DP) to a beginner, a professor would likely start with a foundational approach, introducing the concept of overlapping subproblems and optimal substructure. They might begin by comparing DP with recursion to show how DP reduces redundant calculations using memoization or tabulation.
+
+The professor would then present simple, relatable problems, like the Fibonacci sequence, before gradually moving to more complex problems like the knapsack problem or longest common subsequence. Along the way, visual aids like recursion trees and DP tables would help illustrate how DP optimizes solutions.
+
+Hands-on coding exercises would solidify understanding, allowing the student to practice breaking problems into subproblems, storing results, and building solutions iteratively.
